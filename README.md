@@ -16,6 +16,8 @@ Technical how-to
 
 -maintain a database integrated with the OCR_models storing each vehicle's in_time and out_time.
 
+![Flowchart](https://github.com/meetpunmiya/park_doc/assets/94193229/fd612480-ca50-4ac6-a342-89e0e4c16760)
+
 
 </h3>
 
