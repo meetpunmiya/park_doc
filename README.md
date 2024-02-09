@@ -3,7 +3,9 @@
 <h6>-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------</h6>
 
 
+
 Technical how-to
+
 :![Optical-character-recognition-on-images-to-read-vehicle-registration-plate](https://github.com/meetpunmiya/park_doc/assets/94193229/2f264200-2799-4c40-ada5-81923ab97a02)
 
 -using Python, OCR_detection of the incoming vehicle's numberplate and their in_time using the python time module.
