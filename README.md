@@ -1,4 +1,4 @@
- <h1>park_doc</h1>
+ <h1>park_smart</h1>
 <h3>- A parking automation system which recommends them about the parking vacancies which is divided into sections via a display installed.
 
 Technical how-to:
