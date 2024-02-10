@@ -1,0 +1,28 @@
+#recommendation {
+    font-size: 400px;
+}
+
+
+body{
+background-image:url('bg2.jpg')
+}
+
+p {
+    font-size: 95px;
+    margin: 50px 50px 50px;
+    display: flex;
+    justify-content:centre;
+}
+
+.output{
+    width:200px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h1 {
+    font-size:50px;
+    width:500px;
+    margin: 0 auto;
+    text-align: center;
+}
