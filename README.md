@@ -21,5 +21,5 @@ Technical how-to:
 </h3>
 
 
-https://github.com/meetpunmiya/park_doc/assets/94193229/3b7d0b30-5969-4316-a5ef-0368802d68f2
+
 
